@@ -8,6 +8,6 @@
 ## Directory (目錄)：
 - 2025
   - **Course Plans（課程規劃）**
-    - [VB Course Plan](./VB_Course_Plan.md)
+    - [VB Course Plan](./VB_Course_Plan_temp.md)
   - **Lessons（課程內容）**
     - [VB Lesson 1](./VB_Lesson_1.md)
